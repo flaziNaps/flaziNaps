@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 340" role="img" aria-label="FLAZI mission control. Learn, build, break, repeat.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1023"/><stop offset=".55" stop-color="#141A38"/><stop offset="1" stop-color="#0A172B"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#53668C" stroke-opacity=".13" stroke-width="1"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="15"/></filter>
+    <clipPath id="clip"><rect x="1" y="1" width="1078" height="338" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1080" height="340" fill="url(#bg)"/>
+    <rect width="1080" height="340" fill="url(#grid)"/>
+    <circle cx="855" cy="155" r="110" fill="#38BDF8" opacity=".12" filter="url(#glow)"/>
+    <circle cx="850" cy="156" r="105" stroke="#5AAEF0" stroke-opacity=".3" fill="none"/>
+    <circle cx="850" cy="156" r="77" stroke="#A78BFA" stroke-opacity=".55" fill="none" stroke-dasharray="5 10"/>
+    <circle cx="850" cy="156" r="50" stroke="#2DD4BF" stroke-opacity=".55" fill="none"/>
+    <circle cx="850" cy="156" r="25" fill="#132A44" stroke="#38BDF8" stroke-width="2"/>
+    <path d="M837 160l9 9 19-26" fill="none" stroke="#2DD4BF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="955" cy="155" r="6" fill="#2DD4BF"/>
+    <circle cx="777" cy="114" r="5" fill="#A78BFA"/>
+    <circle cx="820" cy="205" r="5" fill="#38BDF8"/>
+    <g fill="#BBD6F2" font-family="monospace" font-size="12" letter-spacing="2">
+      <text x="54" y="42">●  DEV CONSOLE / PERSONAL EDITION</text>
+      <text x="54" y="86" fill="#2DD4BF">SYSTEM ONLINE</text>
+      <text x="770" y="40">FIG. 001 — CURIOSITY ENGINE</text>
+    </g>
+    <path d="M54 58h600" stroke="#415173" stroke-width="1"/>
+    <text x="51" y="169" fill="url(#neon)" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="92" letter-spacing="8">FLAZI</text>
+    <text x="56" y="212" fill="#EEF6FF" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="25">LEARN. BUILD. BREAK. REPEAT.</text>
+    <text x="56" y="250" fill="#9FB5D3" font-family="monospace" font-size="16">Not finished. Never supposed to be.</text>
+    <rect x="53" y="280" width="500" height="1" fill="#415173"/>
+    <g font-family="monospace" font-size="13" fill="#B5CDEB"><text x="54" y="310">C++20</text><text x="132" y="310">/</text><text x="160" y="310">GEO SYSTEMS</text><text x="305" y="310">/</text><text x="330" y="310">AI AGENTS</text><text x="454" y="310">/</text><text x="477" y="310">∞ QUESTIONS</text></g>
+    <g fill="#A9C2DC" font-family="monospace" font-size="11"><text x="757" y="300">BUILD STATUS  [EXPERIMENTING]</text><text x="758" y="319">NO FINAL VERSION FOUND.</text></g>
+  </g>
+  <rect x="1" y="1" width="1078" height="338" rx="20" fill="none" stroke="#3B4C75" stroke-width="2"/>
+</svg>
