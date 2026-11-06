@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="./mission-control.svg" alt="FLAZI / developer mission control — Learning things by building things" width="100%" />
+  <img src="./person.gif" alt="FLAZI / developer mission control — Learning things by building things" width="100%" />
 </p>
 
 
@@ -118,24 +118,6 @@ int main() {
 </p>
 
 
----
-
-### 🛰️ A map of my curiosity
-
-```mermaid
-flowchart LR
-    A([❓ WHY?]) --> B[🔍 Understand]
-    B --> C[🛠️ Build]
-    C --> D{⚡ Works?}
-    D -->|Not yet| E[🐛 Debug]
-    E --> B
-    D -->|Yes| F[🚀 Share & improve]
-    F --> A
-```
-
-<p align="center"><sub>My favorite feature is the loop. My least favorite feature is also the loop.</sub></p>
-
----
 
 ### 🕹️ Side quests & hidden settings
 
