@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="./person.gif" alt="FLAZI / developer mission control — Learning things by building things" width="100%" />
+  <img src="./per.gif" alt="FLAZI / developer mission control — Learning things by building things" width="100%" />
 </p>
 
 
